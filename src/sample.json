@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "nickname": "karrigan",
+    "name": "Finn Andersen",
+    "age": "33 years",
+    "country": "Denmark",
+    "role": "In-Game Leader"
+  },
+  { 
+    "id": 2,
+    "nickname": "rain",
+    "name": "Håvard Nygaard",
+    "age": "28 years",
+    "country": "Norway",
+    "role": "Rifler"
+  },
+  {
+    "id": 3,
+    "nickname": "Twistzz",
+    "name": "Russel Van Dulken",
+    "age": "23 years",
+    "country": "Canada",
+    "role": "Rifler"
+  },
+  {
+    "id": 4,
+    "nickname": "ropz",
+    "name": "Robin Kool",
+    "age": "23 years",
+    "country": "Estonia",
+    "role": "Rifler"
+  },
+  {
+    "id": 5,
+    "nickname": "broky",
+    "name": "Helvijs Saukants",
+    "age": "22 years",
+    "country": "Latvia",
+    "role": "Awper"
+  },
+  {
+    "id": 6,
+    "nickname": "RobbaN",
+    "name": "Robert Dahlström",
+    "age": "38 years",
+    "country": "Sweden",
+    "role": "Coach"
+  }
+]
+  
